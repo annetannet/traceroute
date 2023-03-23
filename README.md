@@ -23,11 +23,5 @@
 `````$ python3 traceroute.py 1.1.1.1 `````
 
 ### Состав проекта
-
->
->traceroute/
-> │
-> ├── traceroute.py
-> │
-> └── README.md
-> 
+- traceroute.py
+- README.md
